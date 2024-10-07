@@ -1,15 +1,15 @@
 {
-    "name": "ماكس",
+    "name": "زونثون",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
-    "logo" : "https://telegra.ph/file/03671e4f4db95bfbdf9d2.jpg",
+    "logo" : "https://telegra.ph/file/",
     "stack": "container",
-    "repository": "https://github.com/abbasabb55/rhy",
+    "repository": "https://github.com/pravin11737/zon7181",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/abbasabb55/rhy",
+    "website": "https://github.com/pravin11737/zon7181",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
